@@ -15,7 +15,7 @@ public class TwelveDaysOfOS{
 		"Eight frames evicted\n",
 		"Nine testers failing\n",
 		"Ten threads a-yielding\n",
-		"Eleven child dying\n",
+		"Eleven children dying\n",
 		"Twelve sophomores crying\n"
 	};
 
